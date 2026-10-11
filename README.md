@@ -5,8 +5,6 @@ Free, ready-to-run tree test and card sort templates for UX designers and resear
 [![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey)](LICENSE)
 [![Last updated](https://img.shields.io/github/last-commit/tilia-labs/ux-research-templates?label=last%20updated)](https://github.com/tilia-labs/ux-research-templates/commits/main)
 
-<!-- TODO before launch: add .github/assets/upload-to-live.gif (under 5 MB) showing a template being uploaded and the study going live. -->
-
 ## Quick start
 
 1. Pick a template below and download the file.
