@@ -25,6 +25,7 @@ A tree test checks whether people can find things in your navigation, using only
 | [Local council website](templates/tree-tests/local-council-website.md) | Test how residents find everyday services, from bins to Council Tax |
 | [Banking app](templates/tree-tests/banking-app.md) | Test how customers find urgent and everyday tasks in a mobile app |
 | [Help centre](templates/tree-tests/help-centre.md) | Test whether customers can find the right support article |
+| [GP practice website](templates/tree-tests/gp-practice-website.md) | Test how patients find appointments, repeat prescriptions, test results and urgent help |
 
 ### Card sorts
 
